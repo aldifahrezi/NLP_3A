@@ -1,4 +1,4 @@
-{
+aspect_word_list = {
     "FOOD" : [
         "makanan",
         "food",
@@ -10,6 +10,11 @@
         "daging",
         "bakso",
         "kuah",
+        "bakmi",
+        "gorengan",
+        "pasta",
+        "sate",
+        "rujak",
         "mie",
         "goreng",
         "kopi",
@@ -577,7 +582,9 @@
         "promo",
         "voucher",
         "diskon",
-        "discount"
+        "discount",
+        "cash",
+        "credit"
     ],
     "SERVICE" : [
         "melayani",
@@ -587,7 +594,18 @@
         "pelayan",
         "fasilitas",
         "facility",
-        "waktu"    
+        "waktu",
+        "mba",
+        "mbaknya",
+        "manager",
+        "customer",
+        "delivery",
+        "antar",
+        "mas",
+        "masnya",
+        "pemilik",
+        "pelayanan",
+        "pelayananya"
     ],
     "AMBIENCE" : [
         "musik",
@@ -609,6 +627,20 @@
         "aura",
         "environment",
         "scent",
-        "spaciousness"
+        "spaciousness",
+        "internet",
+        "wifi",
+        "wi-fi",
+        "room",
+        "ruangan",
+        "jazz",
+        "vintage",
+        "electrical",
+        "colokan",
+        "stop kontak",
+        "indoor",
+        "outdoor",
+        "seating",
+        "penataan"
     ]
 }
